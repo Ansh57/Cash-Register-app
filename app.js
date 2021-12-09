@@ -19,7 +19,7 @@ let  firstValue=Number(billAmount.value);
    calculateNotes(remindAmount);
  }
   else if(firstValue<0||secValue<0){
-    showMessage("Please Enter Positive Bill");
+    showMessage("Please Enter Positive number");
   }
 else if(firstValue>secValue || firstValue==secValue){
   showMessage("You have to pay more Rs. "+(firstValue-secValue));
