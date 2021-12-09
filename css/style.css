@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+    background-color:aliceblue;
+}
+
+table{
+    border: solid 2px;
+   width: 100%;
+   
+}
+p{
+    font-size: 1.2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+td{
+    font-weight: bolder;
+}
+caption{
+    margin: 20px;
+    font-size: 2rem;
+}
+.input{
+    margin: 50px 40% 50px 40%;
+    background-color: rebeccapurple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+input{
+    margin: 50px;
+    padding: 10px;
+}
+button{
+    margin: 50px;
+    padding: 10px;
+}
+.table-list{
+}
+
+.footer{
+
+   margin:30px;
+    
+}
+
+.social-link{
+    margin: 100px 10px;
+    padding: 0px;
+}
+
+@media (max-width:1000px) {
+    .input{
+        margin: 50px 10% 50px 10%;
+    }
+}
