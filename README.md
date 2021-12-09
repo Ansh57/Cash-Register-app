@@ -1,2 +1,4 @@
-# birthday-palindrome
-App which checks whether your birthday is a palindrome birthday &amp; if not let's you the nearest palindrome date with how many days you have missed
+# Cash-Register-app
+An app which helps users to Enter the bill amount and cash given by the customer and know number of notes to return.
+
+
